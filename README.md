@@ -24,15 +24,10 @@ Passed:rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.") should decode to th
 ## Solution
 
 function rot13(str) {
-
  return str.replace(/[A-Z]/g, L =>
- 
-    String.fromCharCode((L.charCodeAt(0) % 26) + 65)
-    
-  );
-  
+    String.fromCharCode((L.charCodeAt(0) % 26) + 65)  
+  ); 
 }
-
 rot13("SERR PBQR PNZC");
 
 ### Explanation
