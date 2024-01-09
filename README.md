@@ -1,7 +1,4 @@
 # Caesars-Cipher
-Javascript and Data Structure certification project
-
-## Description
 
 One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
 
@@ -10,6 +7,34 @@ A common modern use is the ROT13 cipher, where the values of the letters are shi
 Write a function which takes a ROT13 encoded string as input and returns a decoded string.
 
 All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.
+
+## Demo
+
+
+
+
+
+
+## Getting Started 🖥️
+
+To use Caesars Cipher , follow these steps:
+
+Download or copy the code from this repository.
+
+Open the index.html file in a web browser.
+
+
+
+
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
+
+
+## Acknowledgments
+This project was developed as an Certification task for FreeCodeCamp- Javascript and Data Structure Certification.
+
 
 ## Tests
 
