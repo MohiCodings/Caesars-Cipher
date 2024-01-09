@@ -36,15 +36,7 @@ Open the index.html file in a web browser.
 This project was developed as an Certification task for FreeCodeCamp- Javascript and Data Structure Certification.
 
 
-## Tests
 
-rot13("SERR PBQR PNZC") should decode to the string FREE CODE CAMP
-
-Passed:rot13("SERR CVMMN!") should decode to the string FREE PIZZA!
-
-Passed:rot13("SERR YBIR?") should decode to the string FREE LOVE?
-
-Passed:rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.") should decode to the string THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 
 ## About Freecodecamp Certification
 
@@ -59,6 +51,17 @@ A common modern use is the ROT13 cipher, where the values of the letters are shi
 Write a function which takes a ROT13 encoded string as input and returns a decoded string.
 
 All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.
+
+
+## Tests
+
+rot13("SERR PBQR PNZC") should decode to the string FREE CODE CAMP
+
+Passed:rot13("SERR CVMMN!") should decode to the string FREE PIZZA!
+
+Passed:rot13("SERR YBIR?") should decode to the string FREE LOVE?
+
+Passed:rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.") should decode to the string THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 
 
 
