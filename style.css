@@ -1,0 +1,56 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    min-height: 100vh;
+ 
+  align-items: center;
+  justify-content: center;
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    color: white;
+    text-shadow: black 2px 2px;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+}
+
+p{
+    align-items: center;
+    text-align: center;
+}
+
+div{
+align-items: center;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 20px;
+color: white;
+border-radius: 4px;
+
+}
+
+
+
+button{
+    tab-size: 50px;
+    color:  rgb(58, 122, 241);
+    border-radius: 1px;
+}
+h4{
+  text-align: center;
+   color: rgb(255, 217, 0) ;
+   font-size: large  45px;
+}
+
